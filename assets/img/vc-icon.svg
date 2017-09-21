@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="46.57436mm"
+   height="46.57436mm"
+   viewBox="0 0 46.57436 46.57436"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="vc-icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-29.487426"
+     inkscape:cy="19.794104"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.669691,-59.994856)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#76d8bf;stroke-width:1.08611458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.17222917,1.08611458;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 58.858679,90.165055 H 105.25526"
+       id="path815"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#76d8bf;stroke-width:1.22814035;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path817"
+       sodipodi:sides="3"
+       sodipodi:cx="79.950867"
+       sodipodi:cy="90.732979"
+       sodipodi:r1="6.2891541"
+       sodipodi:r2="3.1445775"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 85.397434,87.588402 -2.723283,4.716866 -2.723284,4.716865 -2.723284,-4.716865 -2.723283,-4.716866 5.446567,-10e-7 z"
+       inkscape:transform-center-y="1.0997205"
+       inkscape:transform-center-x="-7.7136852e-06"
+       transform="matrix(1.0616956,0,0,0.69943756,-3.0602472,33.116639)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.73128605px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#76d8bf;fill-opacity:1;stroke:none;stroke-width:0.29328215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.215717"
+       y="69.851913"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="62.215717"
+         y="69.851913"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;text-anchor:start;fill:#76d8bf;fill-opacity:1;stroke-width:0.29328215px"
+         dy="3.8099999">READ </tspan><tspan
+         sodipodi:role="line"
+         x="62.215717"
+         y="84.923744"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;text-anchor:start;fill:#76d8bf;fill-opacity:1;stroke-width:0.29328215px"
+         id="tspan823">MO...</tspan></text>
+  </g>
+</svg>

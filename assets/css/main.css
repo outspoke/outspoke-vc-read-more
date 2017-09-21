@@ -1,0 +1,13 @@
+/* Readmore shortcode
+--------------------- */
+[data-readmore-toggle] {
+  display: block;
+  text-align: center;
+}
+
+[data-readmore-toggle] small {
+  position: relative;
+  top: -.04em;
+  vertical-align: middle;
+  font-size: 70%;
+}
